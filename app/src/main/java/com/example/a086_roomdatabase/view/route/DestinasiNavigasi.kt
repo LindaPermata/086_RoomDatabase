@@ -1,4 +1,4 @@
-package com.example.a086_roomdatabase.view
+package com.example.a086_roomdatabase.view.route
 
 interface DestinasiNavigasi {
 
